@@ -7,7 +7,7 @@
          "Groupmanager",
          "sz-rose-bot"
       ],   
-   "repository": "https://github.com/szsupunma/sz-rose-bot",
+   "repository": "https://github.com/allu725/sz-rose-bot",
    "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
