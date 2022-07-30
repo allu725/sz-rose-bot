@@ -1,6 +1,6 @@
 
 future
-UNICODE_EMOJI
+
 lxml
 beautifulsoup4
 requests
