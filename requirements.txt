@@ -60,7 +60,7 @@ wget
 fake-useragent
 asyncio
 youtube_dl
-
+emoji==1.7.0
 glitch_this
 NumPy
 opencv-python-headless
